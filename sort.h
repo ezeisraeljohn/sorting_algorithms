@@ -7,6 +7,14 @@
 #include <strings.h>
 
 /*Data Structure to use*/
+
+/**
+ * enum kind_e - the kind_e enum
+ * @SPADE: The spade
+ * @HEART: The heart
+ * @CLUB: The club
+ * @DIAMOND: The diamond
+*/
 typedef enum kind_e
 {
 	SPADE = 0,
